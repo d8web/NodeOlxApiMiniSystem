@@ -6,4 +6,5 @@ PORT="Número da porta"
 BASE="http://localhost:"numero da porta"
 DATABASE="mongodb://127.0.0.1:27017/nomedobanco"
 
-Rodar o npm install e rodar o projeto, yarn ou npm startdev.
+Executar o comando npm install para baixar os pacotes.
+Em seguida rodar o projeto, yarn ou npm startdev.
